@@ -1,0 +1,40 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#content1{
+}
+
+#content2{
+	margin-top: 10px;
+}
+
+#form1{
+	margin: 10px; 
+}
+
+body{
+	background-color: #000;
+}
+
+#abc{
+	background-color: #fff;
+}
+
+#pie{
+	height: 350px;
+	background-color: #fff;
+}
+
+#con-reg{
+	font: verdana;
+	text-align: center;
+}
+#div-reg{
+	color: #fff;
+	background-color:#339933;
+	-webkit-box-shadow: 5px 9px 11px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 9px 11px 0px rgba(0,0,0,0.75);
+    box-shadow: 5px 9px 11px 0px rgba(0,0,0,0.75);
+}
